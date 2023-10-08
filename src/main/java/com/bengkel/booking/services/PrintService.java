@@ -1,9 +1,11 @@
 package com.bengkel.booking.services;
 
 import java.util.List;
+import java.util.Scanner;
 
 import com.bengkel.booking.models.Car;
 import com.bengkel.booking.models.Vehicle;
+import com.bengkel.booking.models.Customer;
 
 public class PrintService {
 	
@@ -46,7 +48,6 @@ public class PrintService {
 	    }
 	    System.out.printf(line);
 	}
-	
 	//Silahkan Tambahkan function print sesuai dengan kebutuhan.
 	
 }
